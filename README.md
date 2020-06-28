@@ -16,6 +16,7 @@ The TP53 gene encodes a tumor suppressor protein that is a key cellular defense 
     python 3.7.4
     numpy
     pandas
+    matplotlib
     scikit-learn
 
 ## Theories
@@ -25,8 +26,6 @@ The TP53 gene encodes a tumor suppressor protein that is a key cellular defense 
     logistic regression
     SVM
     random forest
-    naive bayes
-
 
 ## Attribute Information
 
@@ -49,3 +48,5 @@ Danziger, S.A., Swamidass, S.J., Zeng, J., Dearth, L.R., Lu, Q., Chen, J.H., Che
 ## Dataset can be downloaded below (p53_old_2010.zip)
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/p53/
+
+Due to size of dataset it could not be uploaded.
