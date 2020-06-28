@@ -45,8 +45,9 @@ Danziger, S.A., Zeng, J., Wang, Y., Brachmann, R.K. and Lathrop, R.H. (2007) Cho
 
 Danziger, S.A., Swamidass, S.J., Zeng, J., Dearth, L.R., Lu, Q., Chen, J.H., Cheng, J., Hoang, V.P., Saigo, H., Luo, R., Baldi, P., Brachmann, R.K. and Lathrop, R.H. (2006) Functional census of mutation sequence spaces: the example of p53 cancer rescue mutants, IEEE/ACM transactions on computational biology and bioinformatics / IEEE, ACM, 3, 114-125. 
 
-## Dataset can be downloaded below (p53_old_2010.zip)
+## Dataset 
+
+Due to the size of the dataset (exceedeing 100MB) it could not be uploaded.
+The file (p53_old_2010/K8.data) can be downloaded from following link:
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/p53/
-
-Due to size of dataset it could not be uploaded.
