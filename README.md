@@ -1,5 +1,5 @@
 # TP53 activity prediction: Machine Learning on TP53 dataset to predict mutants activity.
-My finishing project for 6 months Sages Kodołamacz Data Science Bootcamp, which I was participating since November 2019.
+The Final Project at Sages Data Science Bootcamp which I have participated since November 2019.
 
 ## Project goal description
 
